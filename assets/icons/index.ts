@@ -1,0 +1,12 @@
+export { default as ArrowBack } from "./ArrowBack";
+export { default as More } from "./More";
+export { default as ArrowLeft } from "./ArrowLeft";
+export { default as ArrowRight } from "./ArrowRight";
+export { default as ArrowDownFilled } from "./ArrowDownFilled";
+export { default as Chats } from "./Chats";
+export { default as Updates } from "./Updates";
+export { default as Phone } from "./Phone";
+export { default as Settings } from "./Settings";
+export { default as Communities } from "./Communities";
+export { default as Facebook } from "./Facebook";
+export { default as Instagram } from "./Instagram";
